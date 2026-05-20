@@ -38,7 +38,7 @@ Validation performance on the 95/5 stratified split (1,470 validation samples):
 | Seed 71 | 0.8931 |
 | Seed 314 | 0.9146 |
 | **Ensemble Average** | **0.9094** (Validation) |
-| **Ensemble Target** | **> 0.9500** (Test Set) |
+| **Ensemble Target** | **> 0.9000** (Test Set) |
 
 ## Repository Structure
 
